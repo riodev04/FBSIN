@@ -11,7 +11,8 @@ Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1) AppleWebKit/600.7.14 (KHTML, like Gecko) Version/11.3 Safari/554.34
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/598.24 (KHTML, like Gecko) Version/14.6.77 Safari/598.24
 Mozilla/5.0 (Windows NT 11.0; Win64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5171.166 Safari/537.36 Edg/102.0.1292.86
-Mozilla/5.0 (Macintosh; Intel Mac OS X 11_15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5247.133 Safari/537.36 Edg/104.0.1254.40"m "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5193.178 Safari/537.36 Edg/102.0.1296.62
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5247.133 Safari/537.36 Edg/104.0.1254.40
+Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5193.178 Safari/537.36 Edg/102.0.1296.62
 Mozilla/5.0 (Linux; Android 10; H96 Max RK3318) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5186.200 Mobile Safari/537.36
 Mozilla/5.0 (Android 11.4; Mobile; rv:120.0esr) Gecko/120.0esr Firefox/120.0esr
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.5.61 Mobile/N878LG Safari/543.9
