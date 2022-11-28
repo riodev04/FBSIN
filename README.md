@@ -44,7 +44,7 @@ python fb.py
 ```
 
 ### Installation for Windows
-First install Ruby and Git Bash on the official website below:
+First install Python and Git Bash on the official website below:
 - [**Git Bash**](https://git-scm.com/downloads)
 - [**Python**](https://www.python.org/downloads/)
 
