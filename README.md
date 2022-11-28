@@ -20,7 +20,7 @@ FBSIN (Facebook Assassin) is a tool to hack Facebook accounts, using the crack m
 
 ### Installation for Linux
 ```bash
-sudo apt-get upgrade
+sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
 sudo apt-get install python
@@ -32,7 +32,7 @@ python fb.py
 ```
 ### Installation for Termux
 ```bash
-pkg upgrade
+pkg update
 pkg upgrade
 pkg install git
 pkg install python
