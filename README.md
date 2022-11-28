@@ -65,6 +65,6 @@ Saweria : https://saweria.co/riodev
 
 # Contributors
 
-<a href="https://github.com/riodev04/Dark-FB/graphs/contributors">
-  <img width="20%" src="https://contrib.rocks/image?repo=riodev04/Dark-FB" />
+<a href="https://github.com/riodev04/FBSIN/graphs/contributors">
+  <img width="20%" src="https://contrib.rocks/image?repo=riodev04/FBSIN" />
 </a>
