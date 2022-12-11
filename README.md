@@ -62,6 +62,7 @@ Don't forget to subscribe, so that it can be an encouragement, the YouTube chann
 
 ## Donate
 Saweria : https://saweria.co/riodev
+PayPal : https://www.paypal.me/RioDev
 
 # Contributors
 
